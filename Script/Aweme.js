@@ -1,4 +1,6 @@
-
+/**
+ * @supported 4162A98B8AFB
+ */
 let arr = {
     "allow_download": true,
     "share_type": 0,
